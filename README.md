@@ -25,6 +25,8 @@
 
 
 
-<h3>💻 Some Stats 💻</h3>
+### ⚙️ &nbsp;GitHub Analytics
 
-![Reeveng's github stats](![JoselynnM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoselynnM&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact))
+(![JoselynnM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoselynnM&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact))
+![JoselynnM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoselynnM&theme=vision-friendly-dark&hide_border=false)
+![JoselynnM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoselynnM&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
