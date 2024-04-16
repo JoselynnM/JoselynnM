@@ -4,7 +4,7 @@
 ## 👨‍💻  About me
 I am a committed student in Fullstack web development with a strong passion for creating innovative web applications and a the desire to deepen my knowledge within Backend. From the beginning of my career as a software developer, especially in the field of web technology, I have become an individual with clear goals and a great ability to adapt and work in teams. This has allowed me to continuously learn new topics, making me a persistent, curious person unafraid to tackle new challenges.
 
-[![PORTAFOLIO WEB](https://img.shields.io/badge/Portafolio%20Web-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://joselyndev.azurewebsites.net/) [![REPOSITORIO](https://img.shields.io/badge/Repositorio-%23323330.svg?style=for-the-badge&logo=repositorio&logoColor=black&color=8000FF)]((https://github.com/JoselynnM))
+[![PORTAFOLIO WEB](https://img.shields.io/badge/Portafolio%20Web-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://sofiamportfolio.netlify.app/) [![REPOSITORIO](https://img.shields.io/badge/Repositorio-%23323330.svg?style=for-the-badge&logo=repositorio&logoColor=black&color=8000FF)]((https://github.com/JoselynnM))
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" align="right" alt="Data">
 
