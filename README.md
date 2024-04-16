@@ -16,7 +16,7 @@ I am a committed student in Fullstack web development with a strong passion for 
 
 ## 🌐 Socials:
 
-- 📫 [**Portfolio Webapp**](https://joselyndev.azurewebsites.net/)
+- 📫 [**Portfolio Webapp**](https://sofiamportfolio.netlify.app/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/joselyn-moreta-8a5654265/)
 - 📁 [**GitHub**](https://github.com/JoselynnM)
 
